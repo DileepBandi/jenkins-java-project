@@ -12,11 +12,11 @@
         <a href="#"><img src="images/logo.svg" alt="logo"></a>
     </nav>
     <div class="form-wrapper">
-        <h2>NETFLIX SIGN IN V-6.0</h2>
+        <h2>NETFLIX SIGN IN V-8.0</h2>
         <form action="#">
             <div class="form-control">
                 <input type="text" required>
-                <label>Mail or mobiler</label>
+                <label>email or rajesh</label>
             </div>
             <div class="form-control">
                 <input type="password" required>
